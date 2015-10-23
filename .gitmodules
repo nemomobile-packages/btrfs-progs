@@ -1,3 +1,0 @@
-[submodule "btrfs-progs"]
-	path = btrfs-progs
-	url = https://git.kernel.org/pub/scm/linux/kernel/git/mason/btrfs-progs.git
